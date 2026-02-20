@@ -3,7 +3,7 @@ venv/
 .env/
 
 # Banco de dados local
-banco/*.db
+*.db
 
 # Cache Python
 __pycache__/
